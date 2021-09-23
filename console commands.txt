@@ -1,0 +1,94 @@
+First type: gcc -o sim sim.c -lm
+and then enter the commands below, you may adjust them in any way you like.
+
+A-----------------------------------------------
+./sim 8192 4 0 1 XSBENCH.t
+./sim 8192 4 0 1 MINIFE.t
+
+./sim 16384 4 0 1 XSBENCH.t
+./sim 16384 4 0 1 MINIFE.t
+
+./sim 32768 4 0 1 XSBENCH.t
+./sim 32768 4 0 1 MINIFE.t
+
+./sim 65536 4 0 1 XSBENCH.t
+./sim 65536 4 0 1 MINIFE.t
+
+./sim 131072 4 0 1 XSBENCH.t
+./sim 131072 4 0 1 MINIFE.t
+
+B-------------------------------------------------
+./sim 8192 4 0 1 XSBENCH.t
+./sim 8192 4 0 1 MINIFE.t
+
+./sim 16384 4 0 1 XSBENCH.t
+./sim 16384 4 0 1 MINIFE.t
+
+./sim 32768 4 0 1 XSBENCH.t
+./sim 32768 4 0 1 MINIFE.t
+
+./sim 65536 4 0 1 XSBENCH.t
+./sim 65536 4 0 1 MINIFE.t
+
+./sim 131072 4 0 1 XSBENCH.t
+./sim 131072 4 0 1 MINIFE.t
+
+
+./sim 8192 4 0 0 XSBENCH.t
+./sim 8192 4 0 0 MINIFE.t
+
+./sim 16384 4 0 0 XSBENCH.t
+./sim 16384 4 0 0 MINIFE.t
+
+./sim 32768 4 0 0 XSBENCH.t
+./sim 32768 4 0 0 MINIFE.t
+
+./sim 65536 4 0 0 XSBENCH.t
+./sim 65536 4 0 0 MINIFE.t
+
+./sim 131072 4 0 0 XSBENCH.t
+./sim 131072 4 0 0 MINIFE.t
+
+C------------------------------------------------
+./sim 32768 1 0 1 XSBENCH.t
+./sim 32768 1 0 1 MINIFE.t
+
+./sim 32768 2 0 1 XSBENCH.t
+./sim 32768 2 0 1 MINIFE.t
+
+./sim 32768 4 0 1 XSBENCH.t
+./sim 32768 4 0 1 MINIFE.t
+
+./sim 32768 8 0 1 XSBENCH.t
+./sim 32768 8 0 1 MINIFE.t
+
+./sim 32768 16 0 1 XSBENCH.t
+./sim 32768 16 0 1 MINIFE.t
+
+./sim 32768 32 0 1 XSBENCH.t
+./sim 32768 32 0 1 MINIFE.t
+
+./sim 32768 64 0 1 XSBENCH.t
+./sim 32768 64 0 1 MINIFE.t
+
+D----------------------------------------------
+./sim 32768 1 1 1 XSBENCH.t
+./sim 32768 1 1 1 MINIFE.t
+
+./sim 32768 2 1 1 XSBENCH.t
+./sim 32768 2 1 1 MINIFE.t
+
+./sim 32768 4 1 1 XSBENCH.t
+./sim 32768 4 1 1 MINIFE.t
+
+./sim 32768 8 1 1 XSBENCH.t
+./sim 32768 8 1 1 MINIFE.t
+
+./sim 32768 16 1 1 XSBENCH.t
+./sim 32768 16 1 1 MINIFE.t
+
+./sim 32768 32 1 1 XSBENCH.t
+./sim 32768 32 1 1 MINIFE.t
+
+./sim 32768 64 1 1 XSBENCH.t
+./sim 32768 64 1 1 MINIFE.t
